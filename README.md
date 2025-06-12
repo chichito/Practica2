@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 "# Practica2" 
 
-![Descripción de la imagen](/images/Print1.jpg)
+![Descripción de la imagen](/imagenes/Print1.jpg)
