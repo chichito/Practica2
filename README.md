@@ -16,4 +16,30 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 "# Practica2" 
 
+En la Primera pantalla esta el nombre de un arreglo 
+    List<String> nombres = [
+      'Juan',
+      'Pedro',
+      'Ana',
+      'Luis',
+      'Angel',
+      'Fernando',
+      'Santiago',
+      'Andrea',
+      'Maria',
+      'Gaby',
+      'Marizol',
+      'Enrique',
+      'Carlos',
+      'David',
+      'Roberto',
+    ];
+
+    coge un valor aleatorio del 0, 14 posiciones
+
+
 ![Descripción de la imagen](Imagenes/Print1.png)
+
+el numero va incrementado de uno en uno mayor a 10 color rojo y llega a 15 vuelve a cero
+
+![Descripción de la imagen](Imagenes/Print2.png)
